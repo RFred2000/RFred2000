@@ -10,6 +10,6 @@ Given this diverse background, I bring a unique perspective to web design. This 
 
 🌱 I’m currently learning ...
 
-## GraphQL 
+### GraphQL 
 Please checkout [SweetNote](https://github.com/vuejs/vue). A notes app that leverages GraphQL
 
