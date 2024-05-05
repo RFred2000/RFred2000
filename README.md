@@ -1,6 +1,4 @@
-### Hi there 👋
-
-✔ About Me
+## About Me
 
 I'm a software generalist with a keen focus on honing my skills in web design.
 
@@ -8,7 +6,21 @@ Having cut my teeth working as a systems software engineer, I have experience in
 
 Given this diverse background, I bring a unique perspective to web design. This is, an ability to look beyond the code needed to accomplish a specific task and onto what makes a system work as a whole.
 
-🌱 I’m currently learning ...
+## My Skills
 
-GraphQL - Please checkout [SweetNote](https://github.com/vuejs/vue). A notes app that leverages GraphQL
+# Frontend
+React
+NextJS
+
+# Backend
+Express
+Node
+GraphQL
+Prisma
+Postgres
+
+# Development
+Docker
+
+
 
