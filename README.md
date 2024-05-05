@@ -8,18 +8,18 @@ Given this diverse background, I bring a unique perspective to web design. This 
 
 ## My Skills
 
-# Frontend
+### Frontend
 React
 NextJS
 
-# Backend
+### Backend
 Express
 Node
 GraphQL
 Prisma
 Postgres
 
-# Development
+### Development
 Docker
 
 
