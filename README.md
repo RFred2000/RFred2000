@@ -10,17 +10,17 @@ Given this diverse background, I bring a unique perspective to web design. This 
 
 ### Frontend
 React\
-NextJS\
+NextJS
 
 ### Backend
 Express\
 Node\
 GraphQL\
 Prisma\
-Postgres\
+Postgres
 
 ### Development
-Docker\
+Docker
 
 
 
