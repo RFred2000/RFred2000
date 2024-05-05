@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a software generalist with a keen focus on honing my skills in web design.
+I'm a software generalist with a focus on honing my skills in web design.
 
 Having cut my teeth working as a systems software engineer, I have experience in various topics. From writing Systems Verilog to GPU accelerated algorithms to JavaScript server code. 
 
